@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
+<g id="Layer_1" display="none">
+	<rect x="20" y="20" display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" width="320" height="320"/>
+	<rect x="40" y="40" display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" width="280" height="280"/>
+	<line display="inline" fill="none" stroke="#231F20" stroke-miterlimit="10" x1="180" y1="0" x2="180" y2="360"/>
+	<line display="inline" fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0" y1="180" x2="360" y2="180"/>
+</g>
+<g id="Layer_5" display="none">
+	<rect x="-45" y="-45" display="inline" fill="#1E9FB4" width="450" height="450"/>
+</g>
+<g id="Layer_4" display="none">
+</g>
+<g id="Layer_2">
+	<rect x="39.9" y="40" fill="#FFFFFF" width="280" height="280"/>
+	<rect x="39.9" y="280.1" fill="#7B868C" width="280" height="40"/>
+	<rect x="60" y="160.1" fill="#465260" width="80" height="160"/>
+	<rect x="160" y="160.1" fill="#465260" width="140" height="110"/>
+	<rect x="170" y="170.1" fill="#323947" width="120" height="90"/>
+	<rect x="70" y="170.1" fill="#323947" width="60" height="90"/>
+	<rect x="20" y="320.1" fill="#5C0000" width="320" height="20"/>
+	<circle fill="#323947" cx="130" cy="275.1" r="5"/>
+	<g opacity="0.5">
+		<defs>
+			<rect id="SVGID_3_" x="40" y="150.1" opacity="0.5" width="280" height="45"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<g opacity="0.5" clip-path="url(#SVGID_2_)">
+			<path fill="#231F20" d="M30,195.1c13.8,0,25-11.2,25-25H5C5,183.9,16.2,195.1,30,195.1z"/>
+			<path fill="#231F20" d="M80,195.1c13.8,0,25-11.2,25-25H55C55,183.9,66.2,195.1,80,195.1z"/>
+			<path fill="#231F20" d="M130,195.1c13.8,0,25-11.2,25-25h-50C105,183.9,116.2,195.1,130,195.1z"/>
+			<path fill="#231F20" d="M180,195.1c13.8,0,25-11.2,25-25h-50C155,183.9,166.2,195.1,180,195.1z"/>
+			<path fill="#231F20" d="M230,195.1c13.8,0,25-11.2,25-25h-50C205,183.9,216.2,195.1,230,195.1z"/>
+			<path fill="#231F20" d="M280,195.1c13.8,0,25-11.2,25-25h-50C255,183.9,266.2,195.1,280,195.1z"/>
+			<path fill="#231F20" d="M330,195.1c13.8,0,25-11.2,25-25h-50C305,183.9,316.2,195.1,330,195.1z"/>
+			<rect x="5" y="145.1" fill="#231F20" width="350" height="25"/>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#DCDCDC" points="55,160.1 5,160.1 40,50.1 80,50.1 		"/>
+		<polygon fill="#A61210" points="105,160.1 55,160.1 80,50.1 120,50.1 		"/>
+		<polygon fill="#DCDCDC" points="155,160.1 105,160.1 120,50.1 160,50.1 		"/>
+		<polygon fill="#A61210" points="205,160.1 155,160.1 160,50.1 200,50.1 		"/>
+		<polygon fill="#DCDCDC" points="255,160.1 205,160.1 200,50.1 240,50.1 		"/>
+		<polygon fill="#A61210" points="305,160.1 255,160.1 240,50.1 280,50.1 		"/>
+		<polygon fill="#DCDCDC" points="355,160.1 305,160.1 280,50.1 320,50.1 		"/>
+		<path fill="#B3B3B3" d="M30,185.1c13.8,0,25-11.2,25-25H5C5,173.9,16.2,185.1,30,185.1z"/>
+		<path fill="#5C0000" d="M80,185.1c13.8,0,25-11.2,25-25H55C55,173.9,66.2,185.1,80,185.1z"/>
+		<path fill="#B3B3B3" d="M130,185.1c13.8,0,25-11.2,25-25h-50C105,173.9,116.2,185.1,130,185.1z"/>
+		<path fill="#5C0000" d="M180,185.1c13.8,0,25-11.2,25-25h-50C155,173.9,166.2,185.1,180,185.1z"/>
+		<path fill="#B3B3B3" d="M230,185.1c13.8,0,25-11.2,25-25h-50C205,173.9,216.2,185.1,230,185.1z"/>
+		<path fill="#5C0000" d="M280,185.1c13.8,0,25-11.2,25-25h-50C255,173.9,266.2,185.1,280,185.1z"/>
+		<path fill="#B3B3B3" d="M330,185.1c13.8,0,25-11.2,25-25h-50C305,173.9,316.2,185.1,330,185.1z"/>
+	</g>
+</g>
+</svg>
